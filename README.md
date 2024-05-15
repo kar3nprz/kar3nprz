@@ -47,8 +47,8 @@
 - [Certified Information Systems Security Professional (CISSP)](https://www.credly.com/badges/5f878807-fef3-456e-ba82-82284da29a7f/public_url)
 
 ## Redes Sociales y Contacto
-- ✉️ Correo Electrónico: tuemail@example.com
-- 📱 Celular: +52 1 234 567 8901
+- ✉️ [Correo Electrónico](mailto:karenperezrobledo@gmail.com)
+- 📱 Celular: +52 55 7472 3045
 - [LinkedIn](https://www.linkedin.com/in/tuperfil)
 - [Twitter](https://twitter.com/tucuenta)
 - [Instagram](https://www.instagram.com/tucuenta)
