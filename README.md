@@ -24,14 +24,6 @@
 - jQuery
 - ⚛️ React
 
-## Metas para el 2024
-- 🎯 Crear proyectos que inspiren a mujeres y ayuden a la sociedad, y aprender al menos 5 nuevas tecnologías.
-
-## Pasatiempos
-- Contenido en redes sociales
-- 📚 Lectura
-- 🎥 Cine
-
 ## Tecnologías que Utilizo
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -45,3 +37,10 @@
 - [Certified Ethical Hacker (CEH)](https://www.credly.com/badges/5d8ab9e2-dc5d-479e-b9aa-111917400eec/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/eb572498-f4fd-4954-a4f9-d77cdda5ea5f/public_url)
 - [Certified Information Systems Security Professional (CISSP)](https://www.credly.com/badges/5f878807-fef3-456e-ba82-82284da29a7f/public_url)
+
+## Redes Sociales y Contacto
+- ✉️ Correo Electrónico: tuemail@example.com
+- 📱 Celular: +52 1 234 567 8901
+- [LinkedIn](https://www.linkedin.com/in/tuperfil)
+- [Twitter](https://twitter.com/tucuenta)
+- [Instagram](https://www.instagram.com/tucuenta)
