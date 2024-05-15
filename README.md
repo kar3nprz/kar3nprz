@@ -24,6 +24,14 @@
 - jQuery
 - ⚛️ React
 
+## Metas para el 2024
+- 🎯 Crear proyectos que inspiren a mujeres y ayuden a la sociedad, y aprender al menos 5 nuevas tecnologías.
+
+## Pasatiempos
+- Contenido en redes sociales
+- 📚 Lectura
+- 🎥 Cine
+
 ## Tecnologías que Utilizo
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -44,3 +52,4 @@
 - [LinkedIn](https://www.linkedin.com/in/tuperfil)
 - [Twitter](https://twitter.com/tucuenta)
 - [Instagram](https://www.instagram.com/tucuenta)
+
